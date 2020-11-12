@@ -1,0 +1,12 @@
+body{
+    font-family: fantasy;
+    height: 95vh;
+    width: 95vw;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(35, 49, 35);
+    background: url(img/grama.JPG);
+}
