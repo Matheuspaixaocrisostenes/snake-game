@@ -3,7 +3,10 @@ Jogo da cobrinha desenvolvido na digital innovation one com algumas modificaçõ
 - background
 - tamanho da font , font-family e font-size
 
-## tecnologias usadas: :notebook:
+## Tecnologias usadas: :notebook:
 - HTML 5
 - CSS 3
 - JavaScript
+
+## Para Jogar o jogo acesse o link abaixo:
+- [Flex Grid] (https://matheuspaixaocrisostenes.github.io/snake-game/)
