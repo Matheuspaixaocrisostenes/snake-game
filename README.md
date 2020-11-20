@@ -8,5 +8,5 @@ Jogo da cobrinha desenvolvido na digital innovation one com algumas modificaçõ
 - CSS 3
 - JavaScript
 
-## Para Jogar o jogo acesse o link abaixo:
-- [Flex Grid] (https://matheuspaixaocrisostenes.github.io/snake-game/)
+## Para Jogar o jogo acesse o link abaixo: :video_game:
+- https://matheuspaixaocrisostenes.github.io/snake-game/
