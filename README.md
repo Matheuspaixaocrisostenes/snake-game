@@ -2,8 +2,6 @@
 Jogo da cobrinha desenvolvido na digital innovation one com algumas modificações com:
 - background
 - tamanho da font , font-family e font-size
-- contagem de pontos
-- Play agin
 
 ## Tecnologias usadas: :notebook:
 - HTML 5
