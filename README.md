@@ -1,7 +1,9 @@
 # Snake Game :snake:
 Jogo da cobrinha desenvolvido na digital innovation one com algumas modificações com:
 - background
-- tamanho da font , font-family e font-size
+- alterações nas fontes
+- adicionado pontuação
+- play agin 
 
 ## Tecnologias usadas: :notebook:
 - HTML 5
