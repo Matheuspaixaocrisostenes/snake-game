@@ -3,7 +3,7 @@ Jogo da cobrinha desenvolvido na digital innovation one com algumas modificaçõ
 - Background
 - Alterações nas Fontes
 - Adicionado Pontuação
-- Play Agin 
+- Play Again 
 
 ## Tecnologias usadas: :book:
 - HTML 5
