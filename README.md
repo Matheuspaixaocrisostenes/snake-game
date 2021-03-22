@@ -5,7 +5,7 @@ Jogo da cobrinha desenvolvido na digital innovation one com algumas modificaçõ
 - Adicionado Pontuação
 - Play Agin 
 
-## Tecnologias usadas: :notebook:
+## Tecnologias usadas: :book:
 - HTML 5
 - CSS 3
 - JavaScript
